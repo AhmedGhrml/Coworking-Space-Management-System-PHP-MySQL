@@ -1,0 +1,101 @@
+#image
+{
+  width:909px;
+  height:500px;
+}
+#event
+{ border: 1px solid black;
+  width: 62%;
+  margin-right: 5%;;
+}
+#event1
+{ 
+  
+  width:100%;
+}
+.subscribe-form .sub-title {
+  margin-bottom: 30px;
+}
+.buttons 
+{
+  background-color: #1da1f2;
+}
+
+#btns 
+{       margin-top: -110px;
+        margin-left: 410px;
+        height: 86px;
+        width: 60%;
+}
+
+#btn1
+{   
+    background-color: black;
+    font-size: 30px;
+}
+
+#btn2
+{   
+    
+    font-size: 30px;
+}
+
+.rightthing
+{ margin-top: 20px;
+  margin-left: 50px;
+  
+}
+
+#text-title
+{ 
+  margin-left:50%;
+}
+#event-section
+{
+  background-image: url("../img/aezeaze.png");
+  
+}
+
+#event-section-title
+{ 
+  color: aliceblue;
+}
+hr.top-line , hr.bottom-line
+{ width: 50%;
+  border: 1px solid white;
+}
+.text-bottom
+{
+  margin-left:37%;
+}
+.left-part div
+{ font-size: 30px;
+  color: aliceblue;
+  margin-left: 35px;
+  position: relative;
+  top:-550px;
+
+}
+.text-container
+{ border: 1px solid black;
+  width:30%
+  
+}
+.text-container p 
+{
+  color: aliceblue;
+}
+.events-section
+{
+  height: 800px;
+}
+
+.ici
+{ 
+  border: 1px solid black;
+  display: inline-block;
+  float: none;
+  width:500px;
+}
+
+
